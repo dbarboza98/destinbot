@@ -1,0 +1,21 @@
+<script>start("c:\\Users\\desti\\OneDrive\\Documents\\destinbot-landing (3)\\.next\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("cache","cache",1,0,"0 B",1741913863,"3/13/25, 8:57:43 PM");</script>
+<script>addRow("diagnostics","diagnostics",1,0,"0 B",1741914009,"3/13/25, 9:00:09 PM");</script>
+<script>addRow("server","server",1,0,"0 B",1741914144,"3/13/25, 9:02:24 PM");</script>
+<script>addRow("static","static",1,0,"0 B",1741914143,"3/13/25, 9:02:23 PM");</script>
+<script>addRow("types","types",1,0,"0 B",1741914012,"3/13/25, 9:00:12 PM");</script>
+<script>addRow("app-build-manifest.json","app-build-manifest.json",0,586,"586 B",1741914243,"3/13/25, 9:04:03 PM");</script>
+<script>addRow("app-path-routes-manifest.json","app-path-routes-manifest.json",0,46,"46 B",1741914017,"3/13/25, 9:00:17 PM");</script>
+<script>addRow("BUILD_ID","BUILD_ID",0,21,"21 B",1741914018,"3/13/25, 9:00:18 PM");</script>
+<script>addRow("build-manifest.json","build-manifest.json",0,388,"388 B",1741914243,"3/13/25, 9:04:03 PM");</script>
+<script>addRow("export-marker.json","export-marker.json",0,94,"94 B",1741914019,"3/13/25, 9:00:19 PM");</script>
+<script>addRow("images-manifest.json","images-manifest.json",0,514,"514 B",1741914019,"3/13/25, 9:00:19 PM");</script>
+<script>addRow("next-minimal-server.js.nft.json","next-minimal-server.js.nft.json",0,16413,"16.0 kB",1741914021,"3/13/25, 9:00:21 PM");</script>
+<script>addRow("next-server.js.nft.json","next-server.js.nft.json",0,95972,"93.7 kB",1741914021,"3/13/25, 9:00:21 PM");</script>
+<script>addRow("package.json","package.json",0,20,"20 B",1741914009,"3/13/25, 9:00:09 PM");</script>
+<script>addRow("prerender-manifest.json","prerender-manifest.json",0,685,"685 B",1741914019,"3/13/25, 9:00:19 PM");</script>
+<script>addRow("react-loadable-manifest.json","react-loadable-manifest.json",0,686,"686 B",1741914243,"3/13/25, 9:04:03 PM");</script>
+<script>addRow("required-server-files.json","required-server-files.json",0,5913,"5.8 kB",1741914018,"3/13/25, 9:00:18 PM");</script>
+<script>addRow("routes-manifest.json","routes-manifest.json",0,751,"751 B",1741914018,"3/13/25, 9:00:18 PM");</script>
+<script>addRow("trace","trace",0,284727,"278 kB",1741914021,"3/13/25, 9:00:21 PM");</script>
